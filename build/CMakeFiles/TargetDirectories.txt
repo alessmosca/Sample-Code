@@ -1,0 +1,3 @@
+/home/almosca/sample/build/CMakeFiles/edit_cache.dir
+/home/almosca/sample/build/CMakeFiles/rebuild_cache.dir
+/home/almosca/sample/build/CMakeFiles/view.dir
